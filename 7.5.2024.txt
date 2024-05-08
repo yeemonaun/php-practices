@@ -1,0 +1,5 @@
+7.5.2024
+
+-how to use GitHub , commit push and pull
+-explain how to construct the repository and connect the VS code
+-logic thinking of PHP and  SQL
